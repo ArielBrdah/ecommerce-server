@@ -11,6 +11,7 @@ const userSchema = new mongoose.Schema({
 	password: { type: String, required: true },
 	role: { type: String, default: 'user' },
 	uuid: { type: String, default: uuidv4, unique: true },
+	logged: {type: Boolean, required: true, default: false}
 });
 
 // hash password before insertion - filter
