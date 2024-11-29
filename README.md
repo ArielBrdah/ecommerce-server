@@ -2,7 +2,7 @@
 author: Ariel Berdah
 year: 2024-11
 ---
-![e-commerce server](https://png.pngtree.com/template/20190927/ourmid/pngtree-e-commerce-logo-template-image_311731.jpg)
+![e-commerce server](./readme.jpg)
 # E-COMMERCE SERVER  
 
 This REST API project serves as the backbone of our online shop, providing essential features to efficiently manage the store:  
